@@ -1,5 +1,5 @@
 Please introduce yourself!
 
-- Your name:
-- Why you are interested in Web Development:
-- One fun fact about yourself or a goal for this course:
+- Your name: Daniel Estupiñan Ojeda
+- Why you are interested in Web Development: To learn web programming
+- One fun fact about yourself or a goal for this course: Complete the course.
